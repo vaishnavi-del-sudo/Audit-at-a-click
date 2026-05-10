@@ -1,0 +1,5 @@
+Audit-at-a-click/
+├── frontend/          # Next.js React app
+├── backend/           # Express.js API
+├── database/          # PostgreSQL schema
+└── README.md
