@@ -1,4 +1,4 @@
-[200~# Audit-at-a-Click
+Audit-at-a-Click
 
 Digital auditing platform for medical and financial records with anomaly detection and lawyer-friendly reporting.
 
